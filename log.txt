@@ -1,0 +1,348 @@
+Main Opend : At time : 2019/12/19/ 10:11:42 *****EndOfLine.
+Main Opend : At time : 2019/12/19/ 10:11:53 *****EndOfLine.
+Main Opend : At time : 2019/12/19/ 10:17:21 *****EndOfLine.
+Teacher login frame has been opend : At time : 2019/12/21/ 13:06:53 *****EndOfLine.
+Main Opend : At time : 2019/12/21/ 13:07:00 *****EndOfLine.
+Teacher login frame has been opend : At time : 2019/12/21/ 13:07:01 *****EndOfLine.
+Main Opend : At time : 2019/12/21/ 13:07:07 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 13:32:16 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:27:39 *****EndOfLine.
+Login failed. Teacher ID = 22 : At time : 2019/12/21/ 17:27:57 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/21/ 17:28:14 *****EndOfLine.
+Login succeeded. Teacher ID = 1 : At time : 2019/12/21/ 17:28:37 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:29:15 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:30:49 *****EndOfLine.
+Login failed. Teacher ID = 1 : At time : 2019/12/21/ 17:30:59 *****EndOfLine.
+Login failed. Teacher ID = 2 : At time : 2019/12/21/ 17:31:13 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:33:04 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:41:13 *****EndOfLine.
+Main Opend : At time : 2019/12/21/ 17:41:17 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 17:41:18 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 19:27:51 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 20:50:39 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:22:43 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:23:33 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:23:56 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:24:57 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:25:25 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:25:43 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:27:17 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/21/ 22:27:20 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/21/ 22:27:20 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 22:27:37 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:27:46 *****EndOfLine.
+All exams for teacher with id = 1has been retrived : At time : 2019/12/21/ 22:27:47 *****EndOfLine.
+All courses and exams for teacher id = 1 has been retrived. : At time : 2019/12/21/ 22:27:47 *****EndOfLine.
+Login succeeded. Teacher ID = 1 : At time : 2019/12/21/ 22:27:47 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 22:30:59 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:31:31 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 22:31:31 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 22:31:31 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 22:31:31 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 22:32:42 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:32:48 *****EndOfLine.
+Login succeeded. Teacher ID = 1 : At time : 2019/12/21/ 22:32:48 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 22:34:05 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:34:12 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 22:34:12 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 22:34:12 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 22:34:12 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 22:34:30 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 22:34:34 *****EndOfLine.
+Login succeeded. Teacher ID = 1 : At time : 2019/12/21/ 22:34:34 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:08:21 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:08:28 *****EndOfLine.
+Login succeeded. Teacher ID = 1 : At time : 2019/12/21/ 23:08:29 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:23:56 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:24:02 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:24:02 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 23:24:02 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 23:24:02 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:24:54 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:24:59 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:24:59 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 23:24:59 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 23:24:59 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:25:20 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:25:23 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:25:24 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 23:25:24 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 23:25:24 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:26:30 *****EndOfLine.
+Exam has been added with id = 1 offer_id = 6 room = K222 date = 2019-12-21 time = 23:25 : At time : 2019/12/21/ 23:26:32 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:26:36 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:26:59 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:27:09 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:27:09 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 23:27:09 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 23:27:09 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:38:45 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:38:49 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/21/ 23:38:49 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/21/ 23:38:49 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/21/ 23:38:49 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:39:20 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:39:28 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/21/ 23:39:28 *****EndOfLine.
+All courses and exams for teacher id = 3 has been retrived. : At time : 2019/12/21/ 23:39:28 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/21/ 23:39:28 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:42:05 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:42:14 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/21/ 23:42:15 *****EndOfLine.
+All courses and exams for teacher id = 3 has been retrived. : At time : 2019/12/21/ 23:42:15 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/21/ 23:42:15 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:43:34 *****EndOfLine.
+Login failed. Teacher ID = 3 : At time : 2019/12/21/ 23:43:41 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:43:45 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/21/ 23:43:46 *****EndOfLine.
+All courses and exams for teacher id = 3 has been retrived. : At time : 2019/12/21/ 23:43:46 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/21/ 23:43:46 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/21/ 23:45:37 *****EndOfLine.
+Login failed. Teacher ID = 3 : At time : 2019/12/21/ 23:45:42 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/21/ 23:45:46 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/21/ 23:45:47 *****EndOfLine.
+All courses and exams for teacher id = 3 has been retrived. : At time : 2019/12/21/ 23:45:47 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/21/ 23:45:47 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/21/ 23:45:55 *****EndOfLine.
+Exam has been added  offer_id = 4 room = K509 date = 2019-12-21 time = 23:45 : At time : 2019/12/21/ 23:45:57 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 09:42:02 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/22/ 09:42:24 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 09:42:25 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/22/ 09:42:25 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/22/ 09:42:25 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:32:10 *****EndOfLine.
+Exam has been added  offer_id = 6 room = L550 date = 2019-12-22 time = 09:42 : At time : 2019/12/22/ 10:32:11 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:32:32 *****EndOfLine.
+Exam with id = 5has been deleted. : At time : 2019/12/22/ 10:32:32 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:53:53 *****EndOfLine.
+Exam has been added  offer_id = 6 room = M302 date = 2019-12-22 time = 09:42 : At time : 2019/12/22/ 10:53:55 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:53:58 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:53:59 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:53:59 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:54:00 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 10:54:12 *****EndOfLine.
+Exam has been added  offer_id = 6 room = S333 date = 2019-12-22 time = 09:42 : At time : 2019/12/22/ 10:54:13 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/22/ 11:18:32 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 11:19:03 *****EndOfLine.
+Teacher frame has been opened : At time : 2019/12/22/ 11:19:22 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 11:19:23 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 13:17:47 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 13:18:09 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 13:30:32 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/22/ 13:30:36 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 13:33:18 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/22/ 13:33:21 *****EndOfLine.
+Refresh and all exams has been retrived from the data base . Number of fetched rows = 8 : At time : 2019/12/22/ 13:33:24 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 13:40:33 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/22/ 13:40:36 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/22/ 14:00:53 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 2 : At time : 2019/12/22/ 14:01:45 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 2 : At time : 2019/12/22/ 14:01:52 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 14:02:01 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 15:34:22 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/22/ 15:34:25 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 3 : At time : 2019/12/22/ 15:34:36 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 15:34:38 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 15:34:40 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 15:34:57 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 15:34:57 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 17:41:29 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 17:41:31 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 17:41:36 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 17:41:37 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 17:41:37 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 17:57:23 *****EndOfLine.
+All exams for teacher with id = 0has been retrived : At time : 2019/12/22/ 17:57:26 *****EndOfLine.
+All courses and exams for teacher id = 0 has been retrived. : At time : 2019/12/22/ 17:57:26 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 17:57:40 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 17:57:48 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 17:57:52 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 17:57:52 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 17:57:52 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 17:57:52 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:17:12 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:17:18 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:17:19 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:17:19 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:17:19 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:20:18 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:20:21 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:20:22 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:20:22 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:20:22 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:27:14 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:27:21 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:27:22 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:27:22 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:27:22 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:27:56 *****EndOfLine.
+Exam has been added with id = 2 offer_id = 2 room = K555 date = 2019-12-22 time = 19:27 : At time : 2019/12/22/ 19:27:57 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 19:37:41 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:37:44 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:37:50 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:37:50 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:37:50 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:37:50 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:38:06 *****EndOfLine.
+Exam has been added with id = 3 offer_id = 3 room = K587 date = 2019-12-22 time = 20:30 : At time : 2019/12/22/ 19:38:10 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:38:18 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 19:38:19 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 9 : At time : 2019/12/22/ 19:38:20 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 19:38:44 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 9 : At time : 2019/12/22/ 19:38:45 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 19:38:46 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:38:47 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:38:53 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 19:38:53 *****EndOfLine.
+All courses and exams for teacher id = 4 has been retrived. : At time : 2019/12/22/ 19:38:53 *****EndOfLine.
+Login succeeded. Teacher ID = 4 : At time : 2019/12/22/ 19:38:53 *****EndOfLine.
+All exams for teacher with id = 4has been retrived : At time : 2019/12/22/ 19:39:20 *****EndOfLine.
+Exam has been added with id = 7 offer_id = 7 room = L404 date = 2019-12-22 time = 20:30 : At time : 2019/12/22/ 19:39:20 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 19:53:19 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:53:21 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:53:25 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:53:26 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:53:26 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:53:26 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:53:39 *****EndOfLine.
+Exam with id = 9has been deleted. : At time : 2019/12/22/ 19:53:39 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:53:43 *****EndOfLine.
+Exam with id = 3has been deleted. : At time : 2019/12/22/ 19:53:43 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:53:47 *****EndOfLine.
+Exam with id = 4has been deleted. : At time : 2019/12/22/ 19:53:47 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:57:29 *****EndOfLine.
+All exams for teacher with id = 0has been retrived : At time : 2019/12/22/ 19:57:31 *****EndOfLine.
+All courses and exams for teacher id = 0 has been retrived. : At time : 2019/12/22/ 19:57:31 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 19:57:44 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 19:57:50 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:57:51 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 19:57:51 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 19:57:51 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:57:59 *****EndOfLine.
+Exam with id = 9has been deleted. : At time : 2019/12/22/ 19:57:59 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:59:14 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:59:15 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:59:16 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 19:59:16 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:20:36 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:27:43 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:27:46 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:27:54 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:27:55 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:27:55 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:27:55 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:28:05 *****EndOfLine.
+Exam has been added with id = 2 offer_id = 2 room = K434 date = 2019-12-22 time = 20:27 : At time : 2019/12/22/ 20:28:09 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:28:31 *****EndOfLine.
+Exam with id = 4 update to  room = X434 date = 2019-12-22 time = 20:27 : At time : 2019/12/22/ 20:28:31 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:28:40 *****EndOfLine.
+Exam with id = 3has been deleted. : At time : 2019/12/22/ 20:28:40 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:37:25 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:37:29 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:37:30 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:37:30 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:37:30 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:42:12 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:42:24 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:42:25 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:42:25 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:42:25 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:46:21 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:46:27 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:46:27 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:46:27 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:46:27 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:47:04 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:47:08 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:47:08 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:47:08 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:47:08 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:48:01 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:48:08 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:48:09 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:48:09 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:48:09 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:52:56 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:53:01 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:53:02 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:53:02 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:53:02 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:53:35 *****EndOfLine.
+Exam with id = 3 update to  room = K206 date = 2019-12-22 time = 20:53 : At time : 2019/12/22/ 20:53:35 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:53:46 *****EndOfLine.
+Exam with id = 3has been deleted. : At time : 2019/12/22/ 20:53:46 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:54:01 *****EndOfLine.
+Exam has been added with id = 3 offer_id = 3 room = K504 date = 2019-12-22 time = 20:53 : At time : 2019/12/22/ 20:54:02 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:54:56 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:55:09 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:55:50 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:55:58 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:56:41 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:56:45 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:56:48 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:58:57 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 20:59:01 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 20:59:02 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 20:59:02 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 20:59:02 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 20:59:16 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 20:59:17 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 0 : At time : 2019/12/22/ 20:59:18 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 0 : At time : 2019/12/22/ 20:59:26 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 21:59:27 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 21:59:34 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 0 : At time : 2019/12/22/ 21:59:36 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 21:59:38 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 21:59:39 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 21:59:43 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 21:59:44 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 21:59:44 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 21:59:44 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 22:00:10 *****EndOfLine.
+Exam has been added with id = 2 offer_id = 2 room = S252 date = 2019-12-22 time = 21:59 : At time : 2019/12/22/ 22:00:17 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 22:00:23 *****EndOfLine.
+Exam with id = 1has been deleted. : At time : 2019/12/22/ 22:00:23 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 22:00:28 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 22:00:50 *****EndOfLine.
+Main Opend : At time : 2019/12/22/ 22:00:51 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/22/ 22:02:25 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/22/ 22:02:29 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/22/ 22:02:30 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/22/ 22:02:30 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/22/ 22:02:30 *****EndOfLine.
+Main Opend : At time : 2019/12/23/ 08:21:41 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/23/ 08:21:49 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 3 : At time : 2019/12/23/ 08:22:04 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 3 : At time : 2019/12/23/ 08:22:18 *****EndOfLine.
+Main Opend : At time : 2019/12/23/ 08:22:26 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/23/ 08:22:45 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/23/ 08:22:51 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/23/ 08:22:52 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/23/ 08:22:52 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/23/ 08:22:52 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/23/ 08:26:51 *****EndOfLine.
+Exam with id = 4 update to  room = I617 date = 2019-12-23 time = 08:22 : At time : 2019/12/23/ 08:26:51 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/23/ 08:27:05 *****EndOfLine.
+Main Opend : At time : 2019/12/23/ 09:43:34 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/23/ 09:43:41 *****EndOfLine.
+Login failed. Teacher ID = 4444 : At time : 2019/12/23/ 09:43:58 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/23/ 09:44:05 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/23/ 09:44:05 *****EndOfLine.
+All courses and exams for teacher id = 2 has been retrived. : At time : 2019/12/23/ 09:44:05 *****EndOfLine.
+Login succeeded. Teacher ID = 2 : At time : 2019/12/23/ 09:44:05 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/23/ 09:45:58 *****EndOfLine.
+Exam with id = 3 update to  room = L303 date = 2019-12-23 time = 14:00 : At time : 2019/12/23/ 09:45:58 *****EndOfLine.
+All exams for teacher with id = 2has been retrived : At time : 2019/12/23/ 09:47:14 *****EndOfLine.
+Exam with id = 3has been deleted. : At time : 2019/12/23/ 09:47:14 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/23/ 09:48:44 *****EndOfLine.
+Teacher frame has been opend : At time : 2019/12/23/ 09:49:09 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/23/ 09:49:09 *****EndOfLine.
+All courses and exams for teacher id = 3 has been retrived. : At time : 2019/12/23/ 09:49:09 *****EndOfLine.
+Login succeeded. Teacher ID = 3 : At time : 2019/12/23/ 09:49:09 *****EndOfLine.
+All exams for teacher with id = 3has been retrived : At time : 2019/12/23/ 09:49:33 *****EndOfLine.
+Exam has been added with id = 6 offer_id = 6 room = I403 date = 2019-12-23 time = 10:49 : At time : 2019/12/23/ 09:49:34 *****EndOfLine.
+Teacher login frame has been opened : At time : 2019/12/23/ 09:49:49 *****EndOfLine.
+Main Opend : At time : 2019/12/23/ 09:49:50 *****EndOfLine.
+StdFrame opend and all exams has been retrived from the data base . Number of fetched row = 8 : At time : 2019/12/23/ 09:49:51 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 2 : At time : 2019/12/23/ 09:50:18 *****EndOfLine.
+Search for exam by  in the database and the results has been retrived . Number of fetched rows = 3 : At time : 2019/12/23/ 09:50:25 *****EndOfLine.
